@@ -2,7 +2,9 @@
   "name": "asteroid-react-redux",
   "version": "1.0.0",
   "description": "React Kit",
-  "scripts": {},
+  "scripts": {
+    "start": "babel-node tools/srcServer.js"
+  },
   "author": "Sam H. Biggs",
   "license": "MIT",
   "dependencies": {
